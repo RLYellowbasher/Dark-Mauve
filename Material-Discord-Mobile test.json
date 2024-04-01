@@ -70,19 +70,19 @@
       "#DEDEDE"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#272727"
+      "#351061"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#614C7A"
+      "#532E7F"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#CBA6F7"
+      "#11111B"
     ],
     "BACKGROUND_MENTIONED": [
       "#283C5A"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#11111B"
+      "#CBA6F7"
     ],
     "CHANNEL_ICON": [
       "#EAEAEA"

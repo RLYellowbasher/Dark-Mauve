@@ -107,7 +107,6 @@
     ]
   },
   "rawColors": {
-    "BLACK_500": "#351061"
     "PRIMARY_100": "#EEEEEE",
     "PRIMARY_300": "#16171A",
     "PRIMARY_400": "#EAEAEA",
@@ -129,7 +128,7 @@
     "PLUM_24": "#272727",
     "PLUM_25": "#16171A",
     "PLUM_3": "#EEEEEE",
-    "PLUM_6": "#EAEAEA",
+    "PLUM_6": "#1E1E2E",
     "PLUM_9": "#EEEEEE"
   },
   "plus": {

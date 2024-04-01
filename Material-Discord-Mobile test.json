@@ -52,7 +52,7 @@
       "#11111B"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#CBA6F7"
+      "#11111B"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f1012"
@@ -85,7 +85,7 @@
       "#11111B"
     ],
     "CHANNEL_ICON": [
-      "#674293"
+      "#532E7F"
     ],
     "CHAT_BACKGROUND": [
       "#16171A"
@@ -94,9 +94,6 @@
       "#DEDEDE"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#CBA6F7"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_\BACKGROUND": [
       "#CBA6F7"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
@@ -124,10 +121,10 @@
     "PLUM_13": "#11111B",
     "PLUM_16": "#272727",
     "PLUM_17": "#272727",
-    "PLUM_18": "#1E1E2E",
-    "PLUM_19": "#1E1E2E",
+    "PLUM_18": "#250051",
+    "PLUM_19": "#250051",
     "PLUM_20": "#16171A",
-    "PLUM_22": "#1E1E2E",
+    "PLUM_22": "#250051",
     "PLUM_24": "#272727",
     "PLUM_25": "#16171A",
     "PLUM_3": "#EEEEEE",

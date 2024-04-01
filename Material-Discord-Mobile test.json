@@ -76,16 +76,16 @@
       "#532E7F"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#11111B"
+      "#CBA6F7"
     ],
     "BACKGROUND_MENTIONED": [
       "#283C5A"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#CBA6F7"
+      "#11111B"
     ],
     "CHANNEL_ICON": [
-      "#EAEAEA"
+      "#11111B"
     ],
     "CHAT_BACKGROUND": [
       "#16171A"
@@ -97,10 +97,10 @@
       "#CBA6F7"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#272727"
+      "#202020"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#272727"
+      "#202020"
     ],
     "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
       "#DEDEDE"

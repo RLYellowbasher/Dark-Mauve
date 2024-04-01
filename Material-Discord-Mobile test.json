@@ -55,7 +55,7 @@
       "#CBA6F7"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0f1012"
+      "#CBA6F7"
     ],
     "BACKGROUND_ACCENT": [
       "#000014"
@@ -85,7 +85,7 @@
       "#11111B"
     ],
     "CHANNEL_ICON": [
-      "#674293"
+      "#8F6ABB"
     ],
     "CHAT_BACKGROUND": [
       "#16171A"
@@ -94,9 +94,6 @@
       "#DEDEDE"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#CBA6F7"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_\BACKGROUND": [
       "#CBA6F7"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [

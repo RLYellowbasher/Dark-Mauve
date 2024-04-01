@@ -85,7 +85,7 @@
       "#11111B"
     ],
     "CHANNEL_ICON": [
-      "#532E7F"
+      "#674293"
     ],
     "CHAT_BACKGROUND": [
       "#16171A"
@@ -96,7 +96,10 @@
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#CBA6F7"
     ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+    "REDESIGN_BUTTON_SECONDARY_ALT": [
+      "#CBA6F7"
+
+   "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#202020"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [

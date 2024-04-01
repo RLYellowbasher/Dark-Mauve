@@ -58,13 +58,13 @@
       "#0f1012"
     ],
     "BACKGROUND_ACCENT": [
-      "#B01EEF"
+      "#CBA6F7"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#11111B"
+      "#1E1E2E"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#11111B"
+      "#1E1E2E"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#DEDEDE"
@@ -73,16 +73,16 @@
       "#272727"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#383838"
+      "#614C7A"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#283C5A"
+      "#CBA6F7"
     ],
     "BACKGROUND_MENTIONED": [
       "#283C5A"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#283C5A"
+      "#11111B"
     ],
     "CHANNEL_ICON": [
       "#EAEAEA"
@@ -93,8 +93,8 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#DEDEDE"
     ],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#272727"
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#CBA6F7"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#272727"

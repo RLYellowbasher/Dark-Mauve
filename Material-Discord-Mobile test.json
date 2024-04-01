@@ -1,19 +1,19 @@
 {
-  "name": "Material Discord Mobile (Mauve)",
-  "description": "Material you discord theme for mobile",
+  "name": "Dark Mauve",
+  "description": "Dark theme with Mauve accents.",
   "authors": [
     {
-      "name": "Wilk22",
-      "id": "543154693984223245"
+      "name": "RLYellowbasher",
+      "id": "320032751418081281"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#CBA6F7"
+      "#EAEAEA"
     ],
     "HEADER_SECONDARY": [
-      "#EAEAEA"
+      "#CBA6F7"
     ],
     "TEXT_NORMAL": [
       "#DEDEDE"
@@ -46,19 +46,19 @@
       "#676767"
     ],
     "BACKGROUND_PRIMARY": [
-      "#16171A"
+      "#11111B"
     ],
     "BACKGROUND_SECONDARY": [
-      "#16171A"
+      "#11111B"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#16171A"
+      "#11111B"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f1012"
     ],
     "BACKGROUND_ACCENT": [
-      "#1E52EE"
+      "#B01EEF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#11111B"

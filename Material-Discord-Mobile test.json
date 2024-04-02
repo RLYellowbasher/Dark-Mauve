@@ -10,10 +10,10 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#CBA6F7"
+      "#EAEAEA"
     ],
     "HEADER_SECONDARY": [
-      "#1E1E2E"
+      "#CBA6F7"
     ],
     "TEXT_NORMAL": [
       "#DEDEDE"

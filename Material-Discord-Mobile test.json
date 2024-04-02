@@ -10,7 +10,7 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#EAEAEA"
+      "#CBA6F7"
     ],
     "HEADER_SECONDARY": [
       "#CBA6F7"
@@ -128,7 +128,7 @@
     "PLUM_24": "#272727",
     "PLUM_25": "#16171A",
     "PLUM_3": "#EEEEEE",
-    "PLUM_6": "#CBA6F7",
+    "PLUM_6": "#532E7F",
     "PLUM_9": "#EEEEEE"
   },
   "plus": {

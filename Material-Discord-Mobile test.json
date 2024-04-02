@@ -52,7 +52,7 @@
       "#11111B"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#CBA6F7"
+      "#1E1E2E"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f1012"
@@ -128,7 +128,7 @@
     "PLUM_24": "#272727",
     "PLUM_25": "#16171A",
     "PLUM_3": "#EEEEEE",
-    "PLUM_6": "#1E1E2E",
+    "PLUM_6": "#CBA6F7",
     "PLUM_9": "#EEEEEE"
   },
   "plus": {

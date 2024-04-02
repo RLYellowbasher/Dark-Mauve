@@ -4,5 +4,5 @@
 
 Install Link
 ```
-https://raw.githubusercontent.com/Wilk-22/Material-Discord-Mobile/main/Material-Discord-Mobile.json
+https://raw.githubusercontent.com/RLYellowbasher/Dark-Mauve/main/Dark%20Mauve.json
 ```

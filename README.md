@@ -1,8 +1,8 @@
-# Material-Discord-Mobile
-#### Material you discord theme for mobile
+# Dark Mauve
+#### A dark theme with mauve accents for Vendetta/Revenge.
 <hr>
 
-Vendetta install link
+Install Link
 ```
 https://raw.githubusercontent.com/Wilk-22/Material-Discord-Mobile/main/Material-Discord-Mobile.json
 ```
